@@ -54,14 +54,14 @@ The dashboard helps identify factors affecting student scores and provides insig
 
 ---
 
-## Dashboard Preview
-
-![Dashboard](Screenshots/Dashboard.png)
-
----
-
 ## Project Files
 
 - Cleaned Dataset
 - Power BI Dashboard (.pbix)
 - Dashboard Screenshot
+
+---
+
+## Dashboard Preview
+
+![Dashboard](Screenshots/Dashboard.png)
